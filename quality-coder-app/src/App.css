@@ -1,0 +1,201 @@
+/*p {
+  margin: 0;
+}
+
+.App-logo {
+  -webkit-animation: App-logo-spin infinite 20s linear;
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+.App-title {
+  font-size: 1.5em;
+  max-width: 250px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.content-area {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.appsidebar {
+  flex: 25%;
+  background-color: DarkOrange;
+}
+
+.appsidebar-timer {
+  width: 100%;
+  height: 100px;
+  padding: 20px 10px 10px;
+  margin-top: 5%;
+}
+
+.appsidebar-timer p {
+  text-align: center;
+  font-size: 22px;
+  margin-top: 5%;
+}
+
+.appsidebar-timer .timedata {
+  font-size: 32px;
+  color: #ffffff;
+  font-weight: 500;
+}
+
+.appsidebar-points {
+  width: 100%;
+  height: 100px;
+  padding: 10px;
+  margin-top: 10%;
+}
+
+.appsidebar-points p {
+  text-align: center;
+  font-size: 22px;
+  margin-top: 5%;
+}
+
+.appsidebar-points .pointsdata {
+  font-size: 32px;
+  color: #ffffff;
+  font-weight: 500;
+  margin-top: 5%;
+}
+
+.appsidebar-nextbutton {
+  width: 100%;
+  height: 100px;
+  padding: 10px;
+  margin-top: 10%;
+}
+
+.appsidebar-nextbutton .skip-btn {
+  display: block;
+  margin: 0 auto;
+  padding: 10px 25px;
+  font-size: 16px;
+  background-color: #1E90FF;
+  border: 2px solid orange;
+  border-radius: 5px;
+  color: #ffffff;
+  box-shadow: 0 3px 4px #000000;
+  cursor: pointer;
+  transition: all 0.4s;
+}
+
+.appsidebar-nextbutton .skip-btn:hover {
+  background-color: #3584d0;
+  color: gold;
+  border: 2px solid gold;
+  box-shadow: 0 0 1px #000000;
+  -webkit-transform: translateY(2px);
+  transform: translateY(2px);
+}
+
+.appquestions {
+  flex: 75%;
+}
+
+.appquestions-question {
+  max-width: 100%;
+  max-height: 400px;
+  background-color: skyblue;
+  padding: 30px;
+}
+
+.appquestions-question-tableboard {
+  background-color: #233232;
+  color: #73ACE4;
+  max-width: 100%;
+  min-height: 400px;
+  padding: 10px;
+}
+
+.appquestions-question-tableboard p {
+  line-height: 24px;
+}
+
+.appquestions-question-tableboard .question-code {
+  font-weight: 800;
+  color: #ffffff;
+  font-style: italic;
+}
+
+.question-numb {
+  font-size: 26px;
+  color: orange;
+  padding-bottom: 30px;
+}
+
+.appquestions-answers {
+  max-width: 100%;
+  height: 300px;
+  background-color: #1E90FF;
+}
+
+.appquestions-answers-buttons {
+  max-width: 100%;
+  padding: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.answer-btn {
+  max-width: 100%;
+  flex-basis: 49%;
+  min-height: 85px;
+  padding: 10px 25px;
+  font-size: 16px;
+  background-color: blue;
+  border: 2px solid DarkOrange;
+  border-radius: 5px;
+  color: gold;
+  box-shadow: 0 3px 4px #000000;
+  cursor: pointer;
+  transition: all 0.4s;
+  margin-bottom: 2%;
+}
+
+.answer-btn:hover {
+  background-color: #2626dc;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  box-shadow: 0 0 1px #000000;
+  -webkit-transform: translateY(2px);
+  transform: translateY(2px);
+}
+
+.App-footer {
+  background-color: #222;
+  padding: 20px;
+  font-size: 15px;
+  color: white;
+  text-align: center;
+}
+
+@-webkit-keyframes App-logo-spin {
+  from { -webkit-transform: rotate(0deg); transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); transform: rotate(360deg); }
+}
+
+@keyframes App-logo-spin {
+  from { -webkit-transform: rotate(0deg); transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); transform: rotate(360deg); }
+}
+*/
